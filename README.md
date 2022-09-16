@@ -3,7 +3,7 @@
 #### Project Status: Finished
 
 ## Project Intro/Objective
-Collection of different machine-learning techniques applied to a dataset about real-estate to predict prices.
+Collection of different machine-learning techniques applied to a dataset about real-estate to predict prices.  
 The purpose of this project is to learn applying supervised machine-learning to real-life data.   
 Data had to be explored, preprocessed and then used for model training and evaluation.
 
